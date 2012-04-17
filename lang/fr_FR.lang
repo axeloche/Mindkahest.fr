@@ -392,28 +392,28 @@ item.shovelEtain.name=Pelle en étain
 item.pickaxeEtain.name=Pioche en étain
 item.axeEtain.name=Hache en étain
 item.hoeEtain.name=Houe en étain
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
-item.
+item.swordLaiton.name=Épée en laiton
+item.shovelLaiton.name=Pelle en laiton
+item.pickaxeLaiton.name=Pioche en laiton
+item.axeLaiton.name=Hache en laiton
+item.hoeLaiton.name=Houe en laiton
+item.swordCuivre.name=Épée en cuivre
+item.shovelCuivre.name=Pelle en cuivre
+item.pickaxeCuivre.name=Pioche en cuivre
+item.axeCuivre.name=Hache en cuivre
+item.hoeCuivre.name=Houe de cuivre
+item.swordMithril.name=Épée en mithril
+item.shovelMithril.name=Pelle en mithril
+item.pickaxeMithril.name=Pioche en mithril
+item.axeMithril.name=Hache en mithril
+item.hoeMithril.name=Houe en mithril
+item.swordPierredesang.name=Épée de sang
+item.shovelPierredesang.name=Pelle de sang
+item.pickaxePierredesang.name=Pioche de sang
+item.axePierredesang.name=Hache de sang
+item.hoePierredesang.name=Houe de sang
 
+//END//
 
 item.shovelIron.name=Pelle en fer
 item.pickaxeIron.name=Pioche en fer
