@@ -250,9 +250,8 @@ tile.TapisMagenta.name=Tapis magenta
 tile.TapisCyan.name=Tapis cyan
 tile.TapisOrange.name=Tapis orange
 tile.TapisGrisClair.name=Tapis gris clair
-tile.Speed.name=
-tile.jump.name=
-
+tile.Speed.name=Bloc de vitesse
+tile.jump.name=Bloc de sauteur
 tile.stone.name=Roche
 tile.grass.name=Bloc d’herbe
 tile.dirt.name=Terre
