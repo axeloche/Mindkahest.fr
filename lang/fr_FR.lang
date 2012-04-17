@@ -211,8 +211,34 @@ texturePack.folderInfo=(Placer les packs de textures ici)
 
 
 
+//FIN//
 
-                                            //FIN//
+tile.OreEtain.name=Minerai d'étain
+tile.OreCuivre.name=Minerai de cuivre
+tile.OreLaiton.name=Minerai de laiton
+tile.OreMithril.name=Minerai de mithril
+tile.Orepierredesang.name=Pierre de sang
+tile.stairsSandStone.name=Escalier de grès
+tile.stairsObsidian.name=Escalier d'obsidienne
+tile.vitreOrange.name=Vitre orange
+tile.vitreBlanche.name=Vitre blanche
+tile.vitreRouge.name=Vitre rouge
+tile.vitreNoir.name=Vitre noir
+tile.vitreVerte.name=Vitre verte
+tile.vitreMarron.name=Vitre Marron
+tile.vitreBleu.name=Vitre bleu
+tile.vitreViolet.name=Vitre Violette
+tile.vitreGris.name=Vitre grise
+tile.vitreRose.name=Vitre rose
+tile.vitreVertclair.name=vitre vert clair
+tile.vitreJaune.name=Vitre jaune
+tile.vitreBleuclair.name=Vitre bleu clair
+tile.vitreVioletclair.name=Vitre violet clair
+tile.vitrecolore.name=
+tile.vitrecolore.name=
+tile.vitrecolore.name=
+
+
 tile.stone.name=Roche
 tile.grass.name=Bloc d’herbe
 tile.dirt.name=Terre
