@@ -206,6 +206,50 @@ texturePack.openFolder=Open texture pack folder
 texturePack.title=Select Texture Pack
 texturePack.folderInfo=(Place texture pack files here)
 
+//NEW//
+
+tile.OreEtain.name=Tin Ore
+tile.OreCuivre.name=Copper Ore
+tile.OreLaiton.name=Brass Ore
+tile.OreMithril.name=Mithril Ore
+tile.Orepierredesang.name=Bloodstone
+tile.stairsSandStone.name=Sandstone stairs
+tile.stairsObsidian.name=Obsidian stairs
+tile.vitreOrange.name=Orange glass
+tile.vitreBlanche.name=White glass
+tile.vitreRouge.name=Red Glass
+tile.vitreNoir.name=Black glass
+tile.vitreVerte.name=Green glass
+tile.vitreMarron.name=Brown glass
+tile.vitreBleu.name=Blue glass
+tile.vitreViolet.name=Purple glass
+tile.vitreGris.name=Gray glass
+tile.vitreRose.name=Pink glass
+tile.vitreVertclair.name=Light green glass
+tile.vitreJaune.name=Yellow glass
+tile.vitreBleuclair.name=Light blue glass
+tile.vitreVioletclair.name=Light purple glass
+tile.TapisBlanc.name=White carpet
+tile.TapisNoir.name=Black carpet
+tile.TapisRouge.name=Red carpet
+tile.TapisGrisFonce.name=Dark gray carpet
+tile.TapisRose.name=Pink carpet
+tile.TapisVert.name=Green carpet
+tile.TapisVertClair.name=Light green carpet
+tile.TapisMarron.name=Brown carpet
+tile.TapisJaune.name=Yellow carpet
+tile.TapisBleu.name=Blue carpet
+tile.TapisBleuClair.name=Light blue carpet
+tile.TapisViolet.name=Purplet carpet
+tile.TapisMagenta.name=Magenta carpet
+tile.TapisCyan.name=Cyan carpet
+tile.TapisOrange.name=Orange carpet
+tile.TapisGrisClair.name=Light gray carpet
+tile.Speed.name=Velocity block
+tile.jump.name=jumper block
+
+//END//
+
 tile.stone.name=Stone
 tile.grass.name=Grass Block
 tile.dirt.name=Dirt
