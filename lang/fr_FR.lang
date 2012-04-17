@@ -206,6 +206,13 @@ texturePack.openFolder=Dossier des textures
 texturePack.title=Choisir le pack de textures
 texturePack.folderInfo=(Placer les packs de textures ici)
 
+                                            //NEW//
+
+
+
+
+
+                                            //FIN//
 tile.stone.name=Roche
 tile.grass.name=Bloc d’herbe
 tile.dirt.name=Terre
