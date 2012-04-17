@@ -380,6 +380,41 @@ tile.waterlily.name=Lily Pad
 tile.dragonEgg.name=Dragon Egg
 tile.redstoneLight.name=Redstone Lamp
 
+//NEW//
+
+item.Etain.name=Tin Ingot
+item.Laiton.name=Brass Ingot
+item.Mithril.name=Mithril Ingot
+item.cuivre.name=Copper Ingot
+item.pierredesang=Blood Ingot
+item.swordEtain.name=Tin Sword
+item.shovelEtain.name=Tin Shovel
+item.pickaxeEtain.name=Tin Pickaxe
+item.axeEtain.name=Tin Axe
+item.hoeEtain.name=Tin Hoe
+item.swordLaiton.name=Brass Sword
+item.shovelLaiton.name=Brass Shovel
+item.pickaxeLaiton.name=Brass Pickaxe
+item.axeLaiton.name=Brass Axe
+item.hoeLaiton.name=Brass Hoe
+item.swordCuivre.name=Copper Sword
+item.shovelCuivre.name=Copper Shovel
+item.pickaxeCuivre.name=Copper Pickaxe
+item.axeCuivre.name=Copper Axe
+item.hoeCuivre.name=Copper Axe
+item.swordMithril.name=Mithril Sword
+item.shovelMithril.name=Mithril Shovel
+item.pickaxeMithril.name=Mithril Pickaxe
+item.axeMithril.name=Mithril Axe
+item.hoeMithril.name=Mithril Hoe
+item.swordPierredesang.name=Blood sword
+item.shovelPierredesang.name=Blood Shovel
+item.pickaxePierredesang.name=Blood Pickaxe
+item.axePierredesang.name=Blood Axe
+item.hoePierredesang.name=Blood Hoe
+
+//END//
+
 item.shovelIron.name=Iron Shovel
 item.pickaxeIron.name=Iron Pickaxe
 item.hatchetIron.name=Iron Axe
