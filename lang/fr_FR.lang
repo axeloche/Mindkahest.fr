@@ -206,12 +206,7 @@ texturePack.openFolder=Dossier des textures
 texturePack.title=Choisir le pack de textures
 texturePack.folderInfo=(Placer les packs de textures ici)
 
-                                            //NEW//
-
-
-
-
-//FIN//
+//NEW//
 
 tile.OreEtain.name=Minerai d'étain
 tile.OreCuivre.name=Minerai de cuivre
@@ -251,7 +246,10 @@ tile.TapisCyan.name=Tapis cyan
 tile.TapisOrange.name=Tapis orange
 tile.TapisGrisClair.name=Tapis gris clair
 tile.Speed.name=Bloc de vitesse
-tile.jump.name=Bloc de sauteur
+tile.jump.name=Bloc sauteur
+
+//END//
+
 tile.stone.name=Roche
 tile.grass.name=Bloc d’herbe
 tile.dirt.name=Terre
@@ -381,6 +379,41 @@ tile.mycel.name=Mycélium
 tile.waterlily.name=Nénuphar
 tile.dragonEgg.name=Œuf de Dragon
 tile.redstoneLight.name=Lampe à redstone
+
+//NEW//
+
+item.Etain.name=Lingot d'étain
+item.Laiton.name=Lingot de laiton
+item.Mithril.name=Lingot de mithril
+item.cuivre.name=Lingot de cuivre
+item.pierredesang=Lingot de sang
+item.swordEtain.name=Épée en étain
+item.shovelEtain.name=Pelle en étain
+item.pickaxeEtain.name=Pioche en étain
+item.axeEtain.name=Hache en étain
+item.hoeEtain.name=Houe en étain
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+item.
+
 
 item.shovelIron.name=Pelle en fer
 item.pickaxeIron.name=Pioche en fer
