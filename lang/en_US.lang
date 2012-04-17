@@ -1,4 +1,3 @@
-
 language.name=English
 language.region=US
 language.code=en_US
@@ -209,6 +208,50 @@ texturePack.openFolder=Open texture pack folder
 texturePack.title=Select Texture Pack
 texturePack.folderInfo=(Place texture pack files here)
 
+//NEW//
+
+tile.OreEtain.name=Tin Ore
+tile.OreCuivre.name=Copper Ore
+tile.OreLaiton.name=Brass Ore
+tile.OreMithril.name=Mithril Ore
+tile.Orepierredesang.name=Bloodstone
+tile.stairsSandStone.name=Sandstone Stairs
+tile.stairsObsidian.name=Obsidian Stairs
+tile.vitreOrange.name=Orange Glass
+tile.vitreBlanche.name=White Glass
+tile.vitreRouge.name=Red Glass
+tile.vitreNoir.name=Black Glass
+tile.vitreVerte.name=Green Glass
+tile.vitreMarron.name=Brown Glass
+tile.vitreBleu.name=Blue Glass
+tile.vitreViolet.name=Purple Glass
+tile.vitreGris.name=Gray Glass
+tile.vitreRose.name=Pink Glass
+tile.vitreVertclair.name=Light Green Glass
+tile.vitreJaune.name=Yellow Glass
+tile.vitreBleuclair.name=Light Blue Glass
+tile.vitreVioletclair.name=Light Purple Glass
+tile.TapisBlanc.name=White Carpet
+tile.TapisNoir.name=Black Carpet
+tile.TapisRouge.name=Red Carpet
+tile.TapisGrisFonce.name=Dark Gray Carpet
+tile.TapisRose.name=Pink Carpet
+tile.TapisVert.name=Green Carpet
+tile.TapisVertClair.name=Light Green Carpet
+tile.TapisMarron.name=Brown Carpet
+tile.TapisJaune.name=Yellow Carpet
+tile.TapisBleu.name=Blue Carpet
+tile.TapisBleuClair.name=Light Blue Carpet
+tile.TapisViolet.name=Purplet Carpet
+tile.TapisMagenta.name=Magenta Carpet
+tile.TapisCyan.name=Cyan Carpet
+tile.TapisOrange.name=Orange Carpet
+tile.TapisGrisClair.name=Light Gray Carpet
+tile.Speed.name=Velocity Block
+tile.jump.name=jumper Block
+
+//END//
+
 tile.stone.name=Stone
 tile.grass.name=Grass Block
 tile.dirt.name=Dirt
@@ -338,6 +381,41 @@ tile.mycel.name=Mycelium
 tile.waterlily.name=Lily Pad
 tile.dragonEgg.name=Dragon Egg
 tile.redstoneLight.name=Redstone Lamp
+
+//NEW//
+
+item.Etain.name=Tin Ingot
+item.Laiton.name=Brass Ingot
+item.Mithril.name=Mithril Ingot
+item.cuivre.name=Copper Ingot
+item.pierredesang=Blood Ingot
+item.swordEtain.name=Tin Sword
+item.shovelEtain.name=Tin Shovel
+item.pickaxeEtain.name=Tin Pickaxe
+item.axeEtain.name=Tin Axe
+item.hoeEtain.name=Tin Hoe
+item.swordLaiton.name=Brass Sword
+item.shovelLaiton.name=Brass Shovel
+item.pickaxeLaiton.name=Brass Pickaxe
+item.axeLaiton.name=Brass Axe
+item.hoeLaiton.name=Brass Hoe
+item.swordCuivre.name=Copper Sword
+item.shovelCuivre.name=Copper Shovel
+item.pickaxeCuivre.name=Copper Pickaxe
+item.axeCuivre.name=Copper Axe
+item.hoeCuivre.name=Copper Axe
+item.swordMithril.name=Mithril Sword
+item.shovelMithril.name=Mithril Shovel
+item.pickaxeMithril.name=Mithril Pickaxe
+item.axeMithril.name=Mithril Axe
+item.hoeMithril.name=Mithril Hoe
+item.swordPierredesang.name=Blood sword
+item.shovelPierredesang.name=Blood Shovel
+item.pickaxePierredesang.name=Blood Pickaxe
+item.axePierredesang.name=Blood Axe
+item.hoePierredesang.name=Blood Hoe
+
+//END//
 
 item.shovelIron.name=Iron Shovel
 item.pickaxeIron.name=Iron Pickaxe
